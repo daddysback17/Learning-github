@@ -1,2 +1,3 @@
 # Learning-github
-Using Apna College tutorial on Git,Github 
+Learing github using Apna College youtube tutorial.
+https://www.youtube.com/watch?v=Ez8F0nW6S-w
